@@ -1,0 +1,9 @@
+defer> faz com que os sripts do javascripts se carregados depois de todos os conteúdos da página.
+
+keyup> pega o evento das teclas do teclado.
+event> envia para função qual tecla foi pressionada
+keyCode> é o código que cada tecla do teclado tem
+
+setInterval()> é usada para definir intervalos duratne uma execução
+clearInterval> limpa um intervalo
+
